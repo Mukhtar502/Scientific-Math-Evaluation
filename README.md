@@ -1,0 +1,3 @@
+# Scientific Math Evaluation
+
+This repository contains rigorous Python test cases and evaluation scripts using NumPy, SciPy, and SymPy to verify mathematical outputs for AI model evaluation.
