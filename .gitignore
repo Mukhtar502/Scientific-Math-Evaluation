@@ -7,3 +7,6 @@ __pycache__/
 
 # Pytest Cache
 .pytest_cache/
+
+# VS Code local history
+.history/
